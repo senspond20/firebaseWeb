@@ -15,17 +15,24 @@
 <script src="/__/firebase/init.js"></script>
 ```
 
-+ cli
++ **cli**
+
++ setting 
 
 ```
 npm install firebase-tools -g
 ```
-
 ```
 firebase login
 firebase init
 ```
 
++ serve
 ```
 firebase serve
+```
+
++ deploy
+```
+firebase deploy
 ```
