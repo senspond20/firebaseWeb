@@ -26,7 +26,6 @@ npm install firebase-tools -g
 firebase login
 firebase init
 ```
-
 + serve
 ```
 firebase serve
