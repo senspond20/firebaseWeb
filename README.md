@@ -42,3 +42,8 @@ firebase deploy
 ```
 npm create nuxt-app src
 ```
+
+```
+npm run build
+npm run generate
+```
