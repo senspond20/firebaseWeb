@@ -35,3 +35,10 @@ firebase serve
 ```
 firebase deploy
 ```
+
+
+## NuxtJs
+
+```
+npm create nuxt-app src
+```
